@@ -1,0 +1,2 @@
+# kaznija
+my script
